@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Lin.
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on PV forecast.
+- 💞️ I’m looking to collaborate on smart grid.
 
 
 <!---
